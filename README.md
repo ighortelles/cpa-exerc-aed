@@ -16,6 +16,7 @@ O presente projeto contém a solução para um exercício prático relacionado �
 ## 📌 Índice
 1. [Etapa Teórica](#etapa-teórica)  
 2. [Etapa Prática](#etapa-prática)  
+3. [Resolução](#-resolução)  
 
 ---
 
